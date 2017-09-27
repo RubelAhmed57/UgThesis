@@ -11,7 +11,6 @@ Python libraries
 - matlpotlib
 - pyevolve
 
-NSGA-II
+NSGA-II 
 
- 
-[get the code](https://www.iitk.ac.in/kangal/codes.shtml)
+[Get the code](https://www.iitk.ac.in/kangal/codes.shtml)
