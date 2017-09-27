@@ -13,5 +13,5 @@ Python libraries
 
 NSGA-II
 
-[Get the code]: (http://www.iitk.ac.in/kangal/codes.shtml)
-[link text itself]: http://www.reddit.com
+ 
+[get the code](https://www.iitk.ac.in/kangal/codes.shtml)
