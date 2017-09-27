@@ -21,3 +21,7 @@ NSGA-II
 ### Prediction analysis
 ![alt text](https://i.imgur.com/5ABclOm.png "actual and prediction comparision")
 
+### Convergence Analysis 
+
+![alt text](https://i.imgur.com/3LIWgES.png "Fast GA convergence")
+
