@@ -19,5 +19,5 @@ NSGA-II
 # Result Analysis 
 
 ### Prediction analysis
-![alt text](https:// https://i.imgur.com/5ABclOm.png"actual and prediction comparision")
+![alt text](https://i.imgur.com/5ABclOm.png "actual and prediction comparision")
 
