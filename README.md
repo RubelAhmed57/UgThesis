@@ -14,3 +14,10 @@ Python libraries
 NSGA-II 
 
 [Get the code](https://www.iitk.ac.in/kangal/codes.shtml)
+
+
+# Result Analysis 
+
+###Prediction analysis
+
+
