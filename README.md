@@ -25,3 +25,6 @@ NSGA-II
 
 ![alt text](https://i.imgur.com/3LIWgES.png "Fast GA convergence")
 
+### References
+
+http://sci2s.ugr.es/gfs
